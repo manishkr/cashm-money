@@ -1,0 +1,5 @@
+package datamodel
+
+class KuberBalance {
+
+}

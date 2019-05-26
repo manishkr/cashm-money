@@ -1,0 +1,11 @@
+recash-money-9100:
+    image: recash-money:latest
+    restart: always
+    net: host
+    command: ["-Dhttp.port=9100"]
+
+recash-money-9101:
+    image: recash-money:latest
+    restart: always
+    net: host
+    command: ["-Dhttp.port=9101"]

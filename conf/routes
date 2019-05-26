@@ -1,0 +1,2 @@
+->         /v1/coupon               v1.coupon.CouponRouter
+->         /v1/report               v1.report.ReportRouter
